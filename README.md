@@ -1,3 +1,5 @@
-# dumi demo
+# Dumi
+
+Hello，dumi.
 
 
