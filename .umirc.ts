@@ -7,6 +7,10 @@ export default defineConfig({
   navs: [
     null, // null 值代表保留约定式生成的导航，只做增量配置
     {
+      title: 'docs',
+      path: '/docs',
+    },
+    {
       title: 'GitHub',
       path: 'https://github.com/umijs/dumi',
     },
