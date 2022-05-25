@@ -7,5 +7,5 @@ hero:
   actions:
     - text: 开始阅读
       link: /dumi
-footer: Open-source MIT Licensed | Copyright @ 2019 - 2021. Sanoon, Inc.
+footer: Open-source MIT Licensed | Copyright @ 2019 - 2022. Sanoon, Inc.
 ---
